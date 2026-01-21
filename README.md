@@ -6,6 +6,9 @@ I build software with a focus on practical problem-solving, interactive systems,
 My work explores web technologies, problem-solving tech solutions, gesture-based human–computer interaction, and applied computing concepts such as signal processing and system design. I enjoy learning by building and prefer projects that solve real problems or experiment with new ideas.
 
 Most repositories here reflect ongoing learning, academic work, and personal experimentation.
+## Certifications
+- Introduction to Data Science — University of Michigan (Coursera)  
+  Credential: https://www.coursera.org/account/accomplishments/verify/BC1HNV6Z1NAH
 ## Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
