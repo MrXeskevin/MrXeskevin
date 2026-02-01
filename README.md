@@ -29,7 +29,7 @@ I'm a passionate **Computer Scientist** with a focus on **cybersecurity**, **art
 - Penetration testing & security auditing
 - Data engineering & large-scale data processing
 
-💡 **Philosophy:**  
+ **Philosophy:**  
 I believe the best software emerges from the intersection of **solid fundamentals**, **creative problem-solving**, and **continuous learning**. Most of my repositories reflect ongoing experimentation, academic projects, and hands-on practice.
 
 ---
@@ -128,7 +128,7 @@ I'm always interested in collaborating on innovative projects, discussing tech i
 
 <div align="center">
 
-*"The only way to do great work is to love what you do."* – Steve Jobs
+*"Whatever your hand finds to do, do it with all your might"* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MrXeskevin&color=blueviolet&style=flat-square)
 
