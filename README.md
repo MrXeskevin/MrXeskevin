@@ -13,17 +13,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a passionate **Computer Scientist** with a focus on **cybersecurity**, **artificial intelligence**, and **data-driven solutions**. My journey in tech is driven by curiosity and a commitment to building systems that are both innovative and practical.
 
-🔭 **What I Do:**
+ **What I Do:**
 - Develop secure, scalable web applications using modern frameworks
 - Experiment with machine learning models and data analysis pipelines
 - Explore interactive 3D experiences with WebGL and Three.js
 - Research cybersecurity fundamentals and applied cryptography
 
-🌱 **Currently Learning:**
+ **Currently Learning:**
 - Advanced machine learning techniques & deep learning
 - Cloud infrastructure & DevOps practices
 - Penetration testing & security auditing
@@ -34,7 +34,7 @@ I believe the best software emerges from the intersection of **solid fundamental
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 <table>
 <tr>
@@ -51,7 +51,7 @@ University of Michigan<br/>
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 **Languages**
 
@@ -80,7 +80,7 @@ University of Michigan<br/>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -97,17 +97,17 @@ University of Michigan<br/>
 
 ---
 
-## 🚀 Featured Projects
+
 
 <!-- Uncomment and add your best projects here:
-
-### 🔐 [Project Name](link)
+##  Featured Projects
+###  [Project Name](link)
 Brief description of a cybersecurity or AI project you're proud of.
 
-### 📊 [Project Name](link)
+###  [Project Name](link)
 Description of a data science project with interesting findings.
 
-### 🎨 [Project Name](link)
+###  [Project Name](link)
 Description of an interactive web experience or creative coding project.
 
 -->
@@ -116,7 +116,7 @@ Description of an interactive web experience or creative coding project.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 I'm always interested in collaborating on innovative projects, discussing tech ideas, or connecting with fellow developers and researchers.
 
